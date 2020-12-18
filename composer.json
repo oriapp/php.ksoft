@@ -1,0 +1,23 @@
+{
+    "name": "ksoft/php",
+    "description": "UnOfficial API Wrapper for KSoft.Si API, written in PHP",
+    "type": "api",
+    "license": "CC0",
+    "authors": [
+        {
+            "name": "R C N",
+            "email": "plbwymw@gmail.com",
+            "website": "oriappel.me",
+            "github": "github.com/oriapp"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.2.34"
+    },
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
